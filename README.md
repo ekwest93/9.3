@@ -11,6 +11,8 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
+<img width="1161" height="425" alt="image" src="https://github.com/user-attachments/assets/ef8aae6b-76d4-4e29-8ac0-c7761081edde" />
+<img width="1270" height="426" alt="image" src="https://github.com/user-attachments/assets/1c284909-e493-43ad-a094-4b00f52cd0ac" />
 
 
  ---
@@ -44,13 +46,17 @@
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 ## Результат задания 2
+<img width="1475" height="533" alt="image" src="https://github.com/user-attachments/assets/ab64239c-cc1c-4c1a-8c1e-deacb56d5349" />
+<img width="1337" height="539" alt="image" src="https://github.com/user-attachments/assets/91a25a9c-1cc2-44cc-89ed-26c744ddb8ac" />
 
 
 ## Результат задания 3
 Во втором задании к хостам уже был привязан шаблон Linux by Zabbix Agent c ключом vm.memory.size[pavailable], который тоже есть в созданном шаблоне Task 1 из первого задания. Соответственно, нет возможности без отвязки шаблона Linux by Zabbix Agent привязать шаблон Task 1. 
+<img width="1041" height="422" alt="image" src="https://github.com/user-attachments/assets/40f20efc-4b05-481c-b1bd-a248aee6bc1e" />
 
 
 Отвязал шаблон Linux by Zabbix Agent и привязал к хостам созданный шаблон Task 1.
+<img width="1102" height="328" alt="image" src="https://github.com/user-attachments/assets/ce4c9396-90a1-4587-b3eb-953972ba7344" />
 
 
  ---
@@ -66,5 +72,6 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
+<img width="1618" height="356" alt="image" src="https://github.com/user-attachments/assets/b0846ecc-e34b-447d-8d00-45d92be988d4" />
 
  ---
